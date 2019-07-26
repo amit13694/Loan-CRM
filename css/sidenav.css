@@ -1,0 +1,15 @@
+.side-nav ul{
+	margin-left: 0px;
+}
+.side-nav ul li a{
+text-decoration: none;
+}
+.side-nav ul li a i{
+	font-size: 17px;
+	color: white;
+	text-align: left;
+	margin-left:0px; 
+}
+.side-nav ul li a span{
+	font-size: 20px;
+}
